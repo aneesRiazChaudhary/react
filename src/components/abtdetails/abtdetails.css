@@ -1,0 +1,5 @@
+.detailed{
+    background-color: pink;display: flex;flex-wrap: wrap;
+    text-align: center;width: 79%;height: auto;margin-top: 2px;margin-left: 250px;
+    flex-direction: column;
+}

@@ -1,0 +1,12 @@
+
+@import "react-slideshow-image/dist/styles.css";
+.slides{
+    width:79%;height:600px;position: absolute;
+    margin-left: 245px;
+}
+
+.slides > Slide > img {
+    width: 79%;height: 100%;object-fit: contain;
+}
+
+

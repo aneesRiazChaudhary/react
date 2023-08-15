@@ -1,0 +1,94 @@
+.cards{
+    position: absolute;
+   
+     
+    margin-top: 720px;
+    background-color: aqua;
+    width: 100%;
+    height: 800px;
+    gap:10px;
+
+}
+
+.cards #one{position: absolute;
+    width: 280px;height: 200px;background-color: green;margin-top: 50px;margin-left: 100px;
+    background-image: url(../../assetts/apply.jpg);
+
+}
+.cards #two{position: absolute;
+    width: 280px;height: 200px;background-color: green;margin-top: 50px;margin-left: 500px;
+    background-image: url(../../assetts/graduate.jpg);
+}
+.cards #three{position: absolute;
+    width: 280px;height: 200px;background-color: green;margin-top: 50px;margin-left: 870px;
+    background-image: url(../../assetts/phd.jpg);
+}
+.cards #four{position: absolute;
+    width: 280px;height: 200px;background-color: green;margin-top: 415px;margin-left: 100px;
+    background-image: url(../../assetts/feestructure.jpg);
+}
+
+.cards #five{position: absolute;
+    width: 280px;height: 200px;background-color: green;margin-top: 415px;margin-left: 500px;
+    background-image: url(../../assetts/howtoapply.jpg);
+}
+
+.cards #six{position: absolute;
+    width: 280px;height: 200px;background-color: green;margin-top: 415px;margin-left: 870px;
+    background-image: url(../../assetts/apply.jpg);
+    
+}
+.cards #seven{
+    height: 100px;
+    width: auto;
+    position: absolute;
+    background-color: gray;
+    margin-top: 255px;
+    margin-left: 160px;
+}
+
+.cards #eight{
+    height: 100px;
+    width: auto;
+    position: absolute;
+    background-color: gray;
+    margin-top: 255px;
+    margin-left: 590px;
+}
+
+.cards #nine{
+    height: 100px;
+    width: auto;
+    position: absolute;
+    background-color: gray;
+    margin-top: 255px;
+    margin-left: 970px;
+}
+
+.cards #ten{
+    height: 100px;
+    width: auto;
+    position: absolute;
+    background-color: gray;
+    margin-top: 620px;
+    margin-left: 160px;
+}
+
+.cards #eleven{
+    height: 100px;
+    width: auto;
+    position: absolute;
+    background-color: gray;
+    margin-top: 620px;
+    margin-left: 590px;
+}
+
+.cards #twelve{ height: 100px;
+    width: auto;
+    position: absolute;
+    background-color: gray;
+    margin-top: 620px;
+    margin-left: 970px; }
+
+    
+

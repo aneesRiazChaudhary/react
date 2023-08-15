@@ -1,0 +1,14 @@
+.container{
+    width: 79%;height:auto;background-color: bisque;display: flex;flex-wrap: wrap;margin-left: 250px;
+}
+.container > div{
+    width: 200px;height:200px;gap: 40px; background-color: aqua;margin: 40px;
+}
+
+.container > div > h1 {
+    text-align: center;justify-content: center;
+}
+
+/* .container > div > marquee {
+     text-align: justify;font: 1em sans-serif;color: blueviolet;
+} */

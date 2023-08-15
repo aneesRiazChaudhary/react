@@ -1,0 +1,9 @@
+.serv{
+    display: grid;grid-template-columns: 28em 28em;
+     background-color: blueviolet;width: 79%;margin-left: 270px;margin-top: 2px;border:1px solid black
+}
+.serv >h3 {
+    border-bottom: 1px solid red ;height:3rem;
+}
+
+.serv > span{ border-bottom: 1px solid yellow;height: 3rem;align-items:  center;justify-content: center;margin-top: 20px;}

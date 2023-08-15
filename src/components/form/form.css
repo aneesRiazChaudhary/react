@@ -1,0 +1,9 @@
+.login{
+    display: flex;flex-direction: row;width: 50%;height: 400px;background-color: green;flex-wrap: wrap;justify-content: center;align-items: center;
+margin-top: 1520px;z-index: 1;gap: 20px;margin-left: 400px;
+}
+.login > form{
+    display: flex;flex-direction: column;gap: 20px;
+}
+
+.login > form > label{text-indent: -100px;}

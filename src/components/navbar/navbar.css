@@ -1,0 +1,14 @@
+.quickMenu{display: flex;flex-direction: column;background-color: aqua;width:20%;height: auto;margin: 2px;position: fixed;
+z-index: 1;}
+
+ .quickMenu  >img{margin: 2px;background-color: aliceblue;width: 100%;object-fit: contain;
+
+
+}
+.quickMenu >div{
+    height: 5em;width: 99%;background-color: brown;border:1px solid black;
+}
+
+.quickMenu >div >h3{
+    text-align: center; cursor: pointer;
+}
